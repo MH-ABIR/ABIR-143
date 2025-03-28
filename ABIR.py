@@ -1,1 +1,2 @@
-import abir404
+import FILE
+FILE.____Main___()
